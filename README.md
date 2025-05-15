@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Geehnna
-- 👀 I’m interested in ?
-- 🌱 I’m currently learning everything I can!
-- 💞️ I’m looking to collaborate on ?
-- 📫 How to reach me ...
+- 👀 I’m interested in be me 
+- 🌱 I’m currently learning about code
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: rayane almeida
+- ⚡ Fun fact: I love alanzoka gameplays
 
 <!---
 Geehnna/Geehnna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
